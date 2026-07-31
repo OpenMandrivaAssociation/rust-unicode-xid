@@ -4,8 +4,8 @@
 %global crate unicode-xid
 
 Name:           rust-%{crate}
-Version:        0.2.1
-Release:        2
+Version:        0.2.6
+Release:        1
 Summary:        Determine whether characters have XID_Start/XID_Continue properties
 
 # Upstream license specification: MIT OR Apache-2.0
